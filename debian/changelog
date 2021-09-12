@@ -1,3 +1,9 @@
+mx-comfort-themes (21.09.05) mx; urgency=medium
+
+  * make active pager window blue
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 12 Sep 2021 19:38:25 -0400
+
 mx-comfort-themes (21.09.04) mx; urgency=medium
 
   * add thick border themes (xfwm4) 

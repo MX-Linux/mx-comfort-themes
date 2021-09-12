@@ -7682,7 +7682,6 @@ panel-applet > menubar:backdrop menuitem,
 panel-toplevel .gnome-panel-menu-bar menuitem,
 panel-toplevel .gnome-panel-menu-bar:backdrop menuitem, wnck-pager, wnck-tasklist, .mate-panel-menu-bar, .xfce4-panel, UnityPanelWidget, .unity-panel {
   background-color: #232a2d;
-  background-image: linear-gradient(to bottom, #242b2e, #22292c);
   color: #dcdcdc; }
 
 clock-box menuitem label, clock-box:backdrop menuitem label,
