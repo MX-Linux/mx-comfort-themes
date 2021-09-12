@@ -1,0 +1,25 @@
+mx-comfort-themes (21.09.04) mx; urgency=medium
+
+  * add thick border themes (xfwm4) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 11 Sep 2021 12:40:03 -0400
+
+mx-comfort-themes (21.09.03) mx; urgency=medium
+
+  * bug fix in whisker menu
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 02 Sep 2021 23:40:09 -0400
+
+mx-comfort-themes (21.09.02) mx; urgency=medium
+
+  * thin border by defualt
+  * add thick board xfwm4 option
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 31 Aug 2021 22:35:37 -0400
+
+mx-comfort-themes (21.09.01) mx; urgency=medium
+
+  * Initial release.  
+  * created by asqwerth
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 31 Aug 2021 19:36:13 -0400
