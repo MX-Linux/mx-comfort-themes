@@ -1,3 +1,10 @@
+mx-comfort-themes (21.09.06) mx; urgency=medium
+
+  * fix icons 
+  * add pager themeing
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 13 Sep 2021 06:54:48 -0400
+
 mx-comfort-themes (21.09.05) mx; urgency=medium
 
   * make active pager window blue
