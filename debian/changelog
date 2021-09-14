@@ -1,3 +1,10 @@
+mx-comfort-themes (21.09.09) mx; urgency=medium
+
+  * button and gtk2/Qt app theming adjustments
+  * dark theme panel updates
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 14 Sep 2021 19:45:34 -0400
+
 mx-comfort-themes (21.09.07) mx; urgency=medium
 
   * update theme with file manager changes
