@@ -96,7 +96,7 @@
 @define-color wm_icons_unfocused mix(#000000,#dedfe3,0.4);
 @define-color wm_icons_unfocused_prelight #0f56d9;
 @define-color wm_icons_unfocused_pressed #0c45ae;
-@define-color menu_item_bgcolor_hover #DEDFE3
+@define-color menu_item_bgcolor_hover #DEDFE3;
 /**************
  ! GTK settings
 ***************/
