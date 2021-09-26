@@ -7684,7 +7684,11 @@ panel-toplevel .gnome-panel-menu-bar menuitem,
 panel-toplevel .gnome-panel-menu-bar:backdrop menuitem, wnck-pager, wnck-tasklist, .mate-panel-menu-bar, .xfce4-panel, UnityPanelWidget, .unity-panel {
   background-color: #232a2d;
   color: #dcdcdc; }
-
+wnck-pager:selected {
+    background-color: #0f56d9; }
+wnck-pager:hover {
+    background-color: #DEDFE3; }
+    
 clock-box menuitem label, clock-box:backdrop menuitem label,
 panel-applet > menubar menuitem label,
 panel-applet > menubar:backdrop menuitem label,
