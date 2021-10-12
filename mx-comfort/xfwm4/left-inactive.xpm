@@ -1,8 +1,8 @@
 /* XPM */
-static char * left_inactive_xpm[] = {
+static char * left_inactive_new_xpm[] = {
 "1 21 2 1",
 " 	c None",
-".	c #1d2324",
+".	c #8E8F93",
 ".",
 ".",
 ".",
