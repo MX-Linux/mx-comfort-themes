@@ -8881,6 +8881,4 @@ terminal-window scrollbar.vertical slider {
 
 #docklike-plugin .hover_group {
   background-color: alpha(@menu_item_bgcolor_hover, 0.2);}
-#docklike-plugin .active_group {
-  box-shadow: inset 4px 0px 0px 0px orange;}
 
