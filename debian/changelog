@@ -1,3 +1,9 @@
+mx-comfort-themes (23.04.01) mx; urgency=medium
+
+  * initial gtk4.0 folder
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 09 Apr 2023 14:02:39 -0400
+
 mx-comfort-themes (21.10.02) mx; urgency=medium
 
   * xfwm adjustments (swamprabbit) 
