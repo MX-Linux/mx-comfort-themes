@@ -1,3 +1,9 @@
+mx-comfort-themes (23.09.01) mx; urgency=medium
+
+  * modification to gtk3 theme (1px border)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 04 Sep 2023 22:06:44 -0400
+
 mx-comfort-themes (23.04.01) mx; urgency=medium
 
   * initial gtk4.0 folder
