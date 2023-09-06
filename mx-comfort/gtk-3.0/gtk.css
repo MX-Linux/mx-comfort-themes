@@ -54,5 +54,5 @@ window#whiskermenu-window {
 @import url("resource:///org/numixproject/gtk-3.20/dist/gtk.css");
 
 decoration {
-border: 1px solid #29353B;
+border-bottom: 1px solid #dedfe3;
 }
