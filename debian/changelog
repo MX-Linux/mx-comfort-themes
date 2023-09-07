@@ -1,3 +1,9 @@
+mx-comfort-themes (23.09.02) mx; urgency=medium
+
+  * modify 1px border to 1px bottom-border (melber)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 07 Sep 2023 19:38:59 -0400
+
 mx-comfort-themes (23.09.01) mx; urgency=medium
 
   * modification to gtk3 theme (1px border)
