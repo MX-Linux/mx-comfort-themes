@@ -7640,7 +7640,7 @@ decoration {
   background-color: #232a2d;
   background-image: linear-gradient(to bottom, #242b2e, #22292c);
   border-radius: 3px 3px 0 0;
-  border-width: 1;
+  border-width: 0;
   box-shadow: 0 3px 9px 1px rgba(88, 88, 88, 0.7), 0 0 0 1px #0f56d9;
   /* this is used for the resize cursor area */
   margin: 9px; }
