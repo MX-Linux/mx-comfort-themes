@@ -7231,7 +7231,7 @@ radio {
   menuitem radio, modelbutton radio {
     -gtk-icon-source: url("../assets/menuitem-radio-unchecked.svg"); }
     menuitem radio:disabled, modelbutton radio:disabled {
-      -gtk-icon-source: url("../assets/menuitem-radio-checked-insensitive.svg"); }
+      -gtk-icon-source: url("../assets/menuitem-radio-unchecked.svg"); }
     menuitem radio:checked, menuitem radio:active, modelbutton radio:checked, modelbutton radio:active {
       -gtk-icon-source: url("../assets/menuitem-radio-checked.svg"); }
       menuitem radio:checked:hover, menuitem radio:active:hover, modelbutton radio:checked:hover, modelbutton radio:active:hover {
@@ -7263,7 +7263,7 @@ check {
   menuitem check, modelbutton check {
     -gtk-icon-source: url("../assets/menuitem-checkbox-unchecked.svg"); }
     menuitem check:disabled, modelbutton check:disabled {
-      -gtk-icon-source: url("../assets/menuitem-checkbox-checked-insensitive.svg"); }
+      -gtk-icon-source: url("../assets/menuitem-checkbox-unchecked.svg"); }
     menuitem check:checked, menuitem check:active, modelbutton check:checked, modelbutton check:active {
       -gtk-icon-source: url("../assets/menuitem-checkbox-checked.svg"); }
       menuitem check:checked:hover, menuitem check:active:hover, modelbutton check:checked:hover, modelbutton check:active:hover {
