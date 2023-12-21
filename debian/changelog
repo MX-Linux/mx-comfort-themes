@@ -1,3 +1,9 @@
+mx-comfort-themes (23.12.01) mx; urgency=medium
+
+  * correct some checkbox assests (disabled, unchecked)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 20 Dec 2023 20:02:39 -0500
+
 mx-comfort-themes (23.09.03) mx; urgency=medium
 
   * fix window frame decoration border width
