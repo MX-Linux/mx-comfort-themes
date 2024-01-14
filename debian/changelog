@@ -1,6 +1,7 @@
 mx-comfort-themes (23.12.02) mx; urgency=medium
 
   * change background in some popovers
+  * addresses unreadable backgrounds in foliate, among other apps
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 13 Jan 2024 20:03:43 -0500
 
