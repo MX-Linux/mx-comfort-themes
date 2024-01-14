@@ -1,3 +1,9 @@
+mx-comfort-themes (23.12.02) mx; urgency=medium
+
+  * change background in some popovers
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 13 Jan 2024 20:03:43 -0500
+
 mx-comfort-themes (23.12.01) mx; urgency=medium
 
   * correct some checkbox assests (disabled, unchecked)
